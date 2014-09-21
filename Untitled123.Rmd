@@ -1,6 +1,6 @@
 ---
 title: DeckJS
-author: Ramnath Vaidyanathan
+author: Ashish Kumar
 framework: deckjs
 deckjs: {theme: web-2.0}
 highlighter: highlight.js
